@@ -1,9 +1,9 @@
 {
   "name": "@stal/eventer",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stepobiz/stal-paginator.git"
+    "url": "git+https://github.com/stepobiz/stal-eventer.git"
   },
   "author": {
     "name": "Cavallaro Catello Stefano",
