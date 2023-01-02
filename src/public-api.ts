@@ -3,5 +3,4 @@
  */
 
 export * from './lib/eventer.service';
-export * from './lib/eventer.component';
 export * from './lib/eventer.module';

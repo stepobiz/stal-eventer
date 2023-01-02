@@ -1,16 +1,9 @@
 import { NgModule } from '@angular/core';
-import { EventerComponent } from './eventer.component';
-
-
+import { StalEventerService } from './eventer.service';
 
 @NgModule({
-  declarations: [
-    EventerComponent
-  ],
-  imports: [
-  ],
-  exports: [
-    EventerComponent
-  ]
+	providers: [
+		StalEventerService
+	]
 })
-export class EventerModule { }
+export class StalEventerModule { }
